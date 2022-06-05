@@ -21,6 +21,8 @@ header, footer {
 nav {
   font-size: 25px;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .active {
